@@ -1,5 +1,12 @@
 
 
+body{
+	background-image: url("../assets/Rock-paper-scissors.svg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+
+
 }
 
 #left{
